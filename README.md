@@ -1,4 +1,4 @@
-# RHEL 7 CIS
+# AMAZON2 CIS
 
 ![Build Status](https://img.shields.io/github/workflow/status/ansible-lockdown/AMAZON2-CIS/CommunityToDevel?label=Devel%20Build%20Status&style=plastic)
 ![Build Status](https://img.shields.io/github/workflow/status/ansible-lockdown/AMAZON2-CIS/DevelToMain?label=Main%20Build%20Status&style=plastic)
